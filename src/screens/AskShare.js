@@ -17,7 +17,7 @@ function AskShare() {
           <div>
             <img src="" alt="" />
             <p>Share</p>
-          </div>
+          </div> 
           <div>
             <img src="" alt="" />
             <p>Buy</p>
